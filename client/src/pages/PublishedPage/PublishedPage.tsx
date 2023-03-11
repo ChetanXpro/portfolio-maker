@@ -1,8 +1,12 @@
 import React from 'react'
+import Temp1 from '../../Templates/Temp1/Pages/Temp1';
 
 const PublishedPage = () => {
   return (
-    <div>PublishedPage</div>
+    <>
+      <Temp1 />
+
+    </>
   )
 }
 
